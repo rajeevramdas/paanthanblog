@@ -3,7 +3,7 @@
 # https://jpanther.github.io/congo/docs/getting-started/
 
 # baseURL = "https://your_domain.com/"
-baseURL = "https://workers.dev/"
+baseURL = "https://paanthanblog.rajeevramdas.workers.dev/"
 title="Paanthan"
 theme="congo"
 
